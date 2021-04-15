@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+}
+body{
+    background: rgb(228, 231, 231);
+    text-align: center;
+    padding: 40px;
+}
+#formulario {
+    padding: 20px;
+}
+#nome {
+    width: 400px;
+    padding: 12px;
+}
+#cpf {
+    width: 400px;
+    padding: 12px;
+}
+#data{
+    width: 400px;
+    padding: 12px;
+    
+}
+#senha {
+    width: 400px;
+    padding: 12px;
+    
+}
+.form-group {
+    padding: 6px;
+}
+#btn {
+    width: 400px;
+    padding: 12px;
+    background-color: rgb(74, 74, 230);
+    color: white;
+}
+.card{
+    background-color: white;
+    width: 700px;
+    padding: 50px;
+    margin: auto;
+}
